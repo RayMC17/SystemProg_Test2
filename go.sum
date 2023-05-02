@@ -1,0 +1,4 @@
+github.com/RayMC17/SystemP_Test2 v0.0.0-20230501163321-bfe218b6030e h1:eXmxor0ibtw/qQmjrSvdF35EnjOpZhkvhwh3jenNTVQ=
+github.com/RayMC17/SystemP_Test2 v0.0.0-20230501163321-bfe218b6030e/go.mod h1:oi2HxInibx9ro+Bh5cfiLryKWM458MS5dgrYGXr+MgY=
+github.com/goji/httpauth v0.0.0-20160601135302-2da839ab0f4d h1:lBXNCxVENCipq4D1Is42JVOP4eQjlB8TQ6H69Yx5J9Q=
+github.com/goji/httpauth v0.0.0-20160601135302-2da839ab0f4d/go.mod h1:nnjvkQ9ptGaCkuDUx6wNykzzlUixGxvkme+H/lnzb+A=
